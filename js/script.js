@@ -20,20 +20,22 @@ bird.eat = function() {
   }
 };
 
-bird.eat()
+bird.eat();
 //console.log(bird.isHappy());
 
-bird.eat()
+bird.eat();
 //console.log(bird.isHappy());
 
-bird.eat()
+bird.eat();
 //console.log(bird.isHappy);
 
-bird.eat()
-//console.log(bird.isHappy);
-
-bird.eat()
+bird.eat();
 console.log(bird.isHappy);
+
+bird.eat();
+console.log(bird.isHappy);
+
+
 
 
 
